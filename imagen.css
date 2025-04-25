@@ -1,0 +1,18 @@
+/* Establece el fondo azul para toda la página */
+body {
+    background-color: blue;
+    color: red; /* Letras rojas */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Asegura que ocupe toda la altura de la ventana */
+    margin: 0; /* Elimina los márgenes predeterminados */
+    font-family: Arial, sans-serif; /* Fuente para las letras */
+    text-align: center; /* Centra el texto */
+}
+
+/* Estilo del texto */
+h1 {
+    font-size: 3em; /* Tamaño de la fuente */
+    margin: 0; /* Elimina márgenes adicionales */
+}
